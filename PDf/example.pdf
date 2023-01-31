@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+
+
+  <link href="//vjs.zencdn.net/7.0/video-js.min.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <title>Smart Poster</title>
+  <base href="/">
+
+  <!--<meta id="postersUrl" name="postersUrl" value="https://xpis.urban-digital.co.il:7012" />-->
+  <!--if run test mockup project value into meta = empty-->
+  <meta id="postersUrl" name="postersUrl" value="https://xpis.urban-digital.co.il:7012" />
+  <!--We use managmentUrl to send method RestartKiosk-->
+  <meta id="ManagmentUrl" name="ManagmentUrl" value="https://xpis.urban-digital.co.il:7011" />
+  <meta id="realTimeUrl" name="realTimeUrl" value="https://services.urban-digital.co.il:7015" />
+  <!--sport-->
+  <meta id="Sport" name="Sport" value="1234" />
+  <meta id="SportSettings" name="SportSettings" value="5678" />
+  <!--local-->
+  <meta id="Local" name="Local" value="false" />
+
+
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+  <!--<link rel="icon" type="image/x-icon" href="favicon.ico">-->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" href="styles.b81fb82fcfb0f6ba67c0.css"></head>
+<body>
+  <app-root></app-root>
+<script src="runtime.300b6a0e415f7a4de2fa.js" defer></script><script src="polyfills.599f8dd50f6ad4bdfbb5.js" defer></script><script src="scripts.406a9c6f3c1951387d2b.js" defer></script><script src="main.4266305eda91e6d04403.js" defer></script></body>
+</html>
